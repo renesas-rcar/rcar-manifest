@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote fetch="https://github.com/renesas-rcar/" name="github"/>
+  <remote fetch="https://git.yoctoproject.org/git/" name="yocto"/>
+  <remote fetch="https://git.openembedded.org/" name="oe"/>
+
+  <default remote="github"/>
+
+  <project name="poky" path="poky" remote="yocto" revision="424296bf9bb4bae27febf91bce0118df09ce5fa1"/>
+  <project name="meta-openembedded" path="meta-openembedded" remote="oe" revision="f2d02cb71eaff8eb285a1997b30be52486c160ae"/>
+  <project name="meta-renesas" path="meta-renesas" revision="c0a59569d52e32c26de083597308e7bc189675dd"/>
+</manifest>
