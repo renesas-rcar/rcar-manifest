@@ -8,4 +8,4 @@ Please follow general rules/dependencies from : https://source.android.com/setup
 
 **Download layers for each Yocto release version:**
 
-Please refer to Renease Yocto Release Note: <T.B.D.>
+Please refer to Renease Yocto Release Note: https://github.com/renesas-rcar/meta-renesas/wiki/R-Car-Gen3-Community-Yocto-BSP-Release-Note
