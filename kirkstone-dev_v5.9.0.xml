@@ -9,5 +9,5 @@
 
   <project name="poky" path="poky" remote="yocto" revision="e51bf557f596c4da38789a948a3228ba11455e3c"/>
   <project name="meta-openembedded" path="meta-openembedded" remote="oe" revision="9c5541f7e18a1fac3b8dea71e1ebb8398d58e6ff"/>
-  <project name="meta-renesas" path="meta-renesas" remote="github" revision="f669cd36bd9dbdec6d8d9a85d5ca164180973706"/>
+  <project name="meta-renesas" path="meta-renesas" remote="github" revision="37d5ca19c369d46e6848e7712186108d0e91de9c"/>
 </manifest>
