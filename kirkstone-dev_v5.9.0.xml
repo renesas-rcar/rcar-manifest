@@ -7,7 +7,7 @@
 
   <default remote="github"/>
 
-  <project name="poky" path="poky" remote="yocto" revision="d70d287a77d5026b698ac237ab865b2dafd36bb8"/>
-  <project name="meta-openembedded" path="meta-openembedded" remote="oe" revision="f8dddbfcbfe502cb71375a7a907e61a92e8d4474"/>
+  <project name="poky" path="poky" remote="yocto" revision="ab9a994a8cd8e06b519a693db444030999d273b7"/>
+  <project name="meta-openembedded" path="meta-openembedded" remote="oe" revision="e42549cef364ae09b3b7c8b64bbeab32e50f1bb0"/>
   <project name="meta-renesas" path="meta-renesas" remote="github" revision="2073cef600ee232a146df77297bfd90369b5762a"/>
 </manifest>
