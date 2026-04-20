@@ -9,9 +9,9 @@
 
   <default remote="meta-renesas"/>
 
-  <project name="bitbake" path="bitbake" remote="bitbake" revision="720df1a53452983c1c832f624490e255cf389204"/>
-  <project name="openembedded-core" path="openembedded-core" remote="oe-core" revision="8519978592483bb096ed5192fff7af6c887b799e"/>
-  <project name="meta-openembedded" path="meta-openembedded" remote="meta-oe" revision="09c7f76c196876a4366f220b360f4bdb93ab95c0"/>
-  <project name="meta-yocto" path="meta-yocto" remote="meta-yocto" revision="d02d3faaf4d6075ea03e9eb47654ec7639f929a0"/>
+  <project name="bitbake" path="bitbake" remote="bitbake" revision="663021740bc086bd959a8457ad9ddb6da52a8278"/>
+  <project name="openembedded-core" path="openembedded-core" remote="oe-core" revision="dd10706cfafb5574b7cf316fca2300d166ef71b0"/>
+  <project name="meta-openembedded" path="meta-openembedded" remote="meta-oe" revision="8bcdb0cc1dab116253b409e78fb868ced7d8397c"/>
+  <project name="meta-yocto" path="meta-yocto" remote="meta-yocto" revision="6973ca663aaa9c3ab517ee960ab7985a5bf54c07"/>
   <project name="meta-renesas" path="meta-renesas" revision="d3b64e7063b9214781d8c77213165c813b05444c"/>
 </manifest>
