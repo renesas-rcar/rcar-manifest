@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote fetch="https://git.openembedded.org/" name="bitbake"/>
+  <remote fetch="https://git.openembedded.org/" name="oe-core"/>
+  <remote fetch="https://git.openembedded.org/" name="meta-oe"/>
+  <remote fetch="https://git.yoctoproject.org/" name="meta-yocto"/>
+  <remote fetch="https://github.com/renesas-rcar/" name="meta-renesas"/>
+
+  <default remote="meta-renesas"/>
+
+  <project name="bitbake" path="bitbake" remote="bitbake" revision="33581c84f3a85008239acbd940501a35de48dc91"/>
+  <project name="openembedded-core" path="openembedded-core" remote="oe-core" revision="42fa856a00ac16b2a7a83d7ecfa60a5be192b16c"/>
+  <project name="meta-openembedded" path="meta-openembedded" remote="meta-oe" revision="76700b6eaf327bb30e2c47b78713e2e409cfab7c"/>
+  <project name="meta-yocto" path="meta-yocto" remote="meta-yocto" revision="904846ae078ee20de073040ebb77c86e19250f56"/>
+  <project name="meta-renesas" path="meta-renesas" revision="ff4fac8123d758d4ba22047cf6f2d8cac0941766"/>
+</manifest>
